@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ridesource</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pickup_location">Set pickup location</string>
+    <string name="title_activity_mode_selection">ModeSelectionActivity</string>
+    <string name="title_activity_driver_mode">Map</string>
+</resources>
